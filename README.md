@@ -19,7 +19,7 @@ To create comprehensive customers and sales analysis dashboards analyzing previo
 1. Import datasets (10 tables) to Power BI
 2. Data Processing & Transformation
 3. Data Modelling & DAX Measures
-4. Design Dashboard & Insights
+4. Design Dashboards & Insights
 
 ### Customers Analysis: 
 I built an extensive customers analytics dashboard where stakeholders will find:
