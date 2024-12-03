@@ -25,7 +25,7 @@ To create comprehensive customers and sales analysis dashboards analyzing previo
 I built an extensive customers analytics dashboard where stakeholders will find:
 1.	**KPIs:** Total Customer, Average Annual Income & Average Age.
 2.	**Filters:** Year, Education, Gender, Annual Income, Occupation, Home Owner & Marital Status.
-3.	Number of Orders by Customer Name (Top & Bottom Customers)
+3.	Number of Orders by Customer Name (Top & Bottom Customers).
 4.	Number of Customers by Education, Gender, Children, Annual Income, and Age.
 5.	Customers Country Identification Map.
 
