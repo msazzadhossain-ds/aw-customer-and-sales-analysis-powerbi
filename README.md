@@ -10,7 +10,7 @@
 - [Recommendations](#recommendations)
 
 ### Overview:
-The prestigious company operates its business in various regions across the world. The company stakeholders want customers and sales analysis to know some insights for the last few years so that they can make useful decisions about customers services and, obviously, enhance sales.
+The prestigious company operates its business in various regions across the world. The company stakeholders want customers and sales analysis to know some insights for the last few years so that they can make useful decisions about customer services and, obviously, enhance sales.
 
 ### Objective:
 To create comprehensive customers and sales analysis dashboards analyzing previous data to gain actionable insights to evaluate AW customers appearance and sales operations.
