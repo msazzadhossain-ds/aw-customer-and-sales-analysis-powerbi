@@ -56,7 +56,7 @@ I also built an extensive sales analytics dashboard based on previous sales data
 - Overall, stakeholders need to refine sales strategy to increase sales and revenue.
 
 ### Live Dashboard:
-[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMzk0NDRiZWQtNTgzNy00N2M0LWE2OTQtY2U0NGI2NWJlZTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYWVlYWNjYWQtZTIzYS00YjlmLTgxZmMtMDdmMGIzNWE3OGFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Dataset Credit: 
 [Kaggle](https://www.kaggle.com/)
